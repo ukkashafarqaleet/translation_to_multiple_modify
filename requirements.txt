@@ -1,0 +1,4 @@
+configparser==7.1.0
+moviepy==1.0.3
+openai==1.42.0
+yt_dlp==2024.8.6
